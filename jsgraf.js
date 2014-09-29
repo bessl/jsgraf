@@ -1,7 +1,3 @@
-function echo(str){
-  console.log(str);
-}
-
 $(document).ready(function () {
 
   // Multipliziere die zwei Matrizen.
